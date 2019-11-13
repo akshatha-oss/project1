@@ -25,7 +25,9 @@ SECRET_KEY = '(tr*05t4_9)2c0n^q^c%@b9r5b39e18m7pkt(6c8c52kavv#t='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'akshatha-baabtra.herokuapp.com'
+]
 
 
 # Application definition

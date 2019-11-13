@@ -1,1 +1,1 @@
-web: gunicorn baabtra_project.wsgi --log-file-
+web: gunicorn baabtra_project.wsgi --log-file -
